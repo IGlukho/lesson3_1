@@ -9,3 +9,5 @@ Continue in server
 Продолжаем в новой ветке
 
 Add some new text
+
+Conflict
